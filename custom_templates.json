@@ -1,0 +1,11 @@
+{
+    "My Supplier Review": [
+        "Supplier name",
+        "Contract value",
+        "Payment terms",
+        "Start date",
+        "Expiry date",
+        "Termination notice",
+        "Services provided"
+    ]
+}
